@@ -107,9 +107,8 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Conditional random field (CRF)
 - Hidden Markov model (HMM)
 - Probabilistic PCA
-- Probabilistic tools for programming:
-  - Pyro
-  - PyMc
+- Pyro
+- PyMc
 
 
  **6 ] Bayesian models**
