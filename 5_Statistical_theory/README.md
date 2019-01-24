@@ -1,6 +1,5 @@
 # 5 ] Statistical Theory
 
-Programming languages
 - PyMc:
   - 1 Intro : define a simple probabilistic model, number of text messages per day -> bayesian approach
   - 2 Exemples of model : This chapter introduces more PyMC3 syntax and variables and ways to think about how to model a system from a Bayesian perspective.
