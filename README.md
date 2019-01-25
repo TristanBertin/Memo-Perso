@@ -79,7 +79,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Self-Organizing Map (SOM)
 
 
- **5 ] Decision Tree Algorithms**
+ **4 ] Decision Tree Algorithms**
 - Classification and Regression Tree (CART)
 - Iterative Dichotomiser 3 (ID3)
 - C4.5 and C5.0 (different versions of a powerful approach)
@@ -92,7 +92,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - SLIQ
 
 
- **6 ] Statistical theory**
+ **5 ] Statistical theory**
 - Predictive distribution
   - Lapplace approximation
   - Gaussian Mixture Models
