@@ -108,7 +108,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Hidden Markov model (HMM)
 - Probabilistic PCA
 - Pyro
-- PyMc
+- PyMc :heavy_check_mark:
 
 
  **6 ] Bayesian models**
