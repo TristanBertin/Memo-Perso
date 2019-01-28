@@ -134,6 +134,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Bayesian Neural Network
   - Bayesian Convolutional Network
   - Bayesian Belief Network (BBN)
+  - Mixture Density Networks (MDN)
 - Averaged One-Dependence Estimators (AODE)
 
  - Bayesian Data Assimilation
