@@ -65,6 +65,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Generateur
   - Discriminateur
 - Logic learning machine
+- Capsule Neural Networks
 - Deep belief networks
 - Deep Boltzmann machines
 - Hierarchical temporal memory
