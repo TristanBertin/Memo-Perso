@@ -48,6 +48,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Adam Optimizer
   - Adagrad, Adadelta Optimizers
   - Formulation of the gradient
+- Dropout and Regularizers
 - Hopfield Network
 - Radial Basis Function Network (RBFN)
 - Feedforward neural network :heavy_check_mark:
@@ -58,7 +59,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Parameters tuning (nb filters, layers, kernel size,...)
 - Recurrent neural network
   - LSTM :heavy_check_mark:
-  - GRU 
+  - GRU
 - Generative Adversial Networks:
   - Training Stability
   - Generateur
@@ -121,11 +122,12 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Bayesian Regression
 - Bayesian Classification
 - Gaussian Processes
+    - Covariance Matrix
 - EM algorithm
 - Probit Regression
 - Bayesian Optimisation for training
-- Scalable inference
-  - Variationnnal Inference
+- Variationnnal Inference
+- MAP and ML
 - Bayesian Nonparametric clustering
 - Naive Bayes
   - Gaussian Naive Bayes
@@ -136,8 +138,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Bayesian Belief Network (BBN)
   - Mixture Density Networks (MDN)
 - Averaged One-Dependence Estimators (AODE)
-
- - Bayesian Data Assimilation
+- Bayesian Data Assimilation
 
 
  **7 ]Clustering Algorithms**
