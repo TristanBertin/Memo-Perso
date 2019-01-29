@@ -53,7 +53,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Radial Basis Function Network (RBFN)
 - Feedforward neural network :heavy_check_mark:
 - Extreme learning machine
-- Attention layers
+- Attention layers and Augmented Networks
 - Convolutional neural network
   - Resnet , Densenet 
   - Parameters tuning (nb filters, layers, kernel size,...)
