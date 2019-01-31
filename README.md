@@ -72,14 +72,6 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Deep Boltzmann Machine (DBM)
 - Stacked Auto-Encoders
 
- **3 ] Unsupervised learning**
-- Expectation-maximization algorithm
-- Generative topographic map
-- Information bottleneck method
-- k-Nearest Neighbor (kNN) :heavy_check_mark:
-- Learning Vector Quantization (LVQ)
-- Self-Organizing Map (SOM)
-
 
  **4 ] Decision Tree Algorithms**
 - Classification and Regression Tree (CART)
@@ -157,13 +149,22 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Gradient Boosted Regression Trees (GBRT)
 - Random Forest
 
- **9 ] Reinforcement learning**
+ **9 ] Unsupervised learning**
+- Expectation-maximization algorithm
+- Generative topographic map
+- Information bottleneck method
+- k-Nearest Neighbor (kNN) :heavy_check_mark:
+- Learning Vector Quantization (LVQ)
+- Self-Organizing Map (SOM)
+
+
+ **10 ] Reinforcement learning**
 - Q-learning
 - State–action–reward–state–action (SARSA)
 - Temporal difference learning (TD)
 - Learning Automata
 
- **10] Cluster analysis**
+ **11] Cluster analysis**
 - BIRCH
 - DBSCAN
 - Expectation-maximization (EM)
@@ -174,11 +175,11 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Mean-shift
 - OPTICS algorithm
 
- **11] Anomaly detection**
+ **12] Anomaly detection**
 - k-nearest neighbors classification (k-NN)
 - Local outlier factor
 
- **12 ] Semi-supervised learning**
+ **13 ] Semi-supervised learning**
 - Generative models
 - Low-density separation
 - Graph-based methods
@@ -187,7 +188,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Triplet network :heavy_check_mark:
 - Siamese Network :heavy_check_mark:
 
- **13] Time Serie Prediction**
+ **14] Time Serie Prediction**
 - Autoregressive models
   - ARIMA
 - Neural networks
@@ -195,15 +196,15 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Convolutional Networks
   - Flexible windows
 
- **14] Natural Language Processing**
+ **15] Natural Language Processing**
 - Word embedding : Word2Vec
 - Attention Layers
 
- **15] Optimization Algorithms**
+ **16] Optimization Algorithms**
 - Gradient Descent
 - [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
 
- **16] Tools for Parogrammer**
+ **17] Tools for Parogrammer**
 - Visualization:
   - Tableau
 - Multi GPU
