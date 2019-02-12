@@ -7,7 +7,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 
  **1 ] Dimensionality Reduction Algorithms**
 
- - Canonical correlation analysis (CCA)
+- Canonical correlation analysis (CCA)
 - Factor analysis
 - Feature extraction
 - Feature selection
@@ -25,8 +25,8 @@ Several simple examples of Machine Learning Algorithms with notebooks
  **2 ] Regression and Classification Algorithms**
 - Regression :
   - Ordinary Least Squares Regression (OLSR) :heavy_check_mark:
-  - Linear Regression :heavy_check_mark:
-  - Logistic Regression :heavy_check_mark:
+  - Linear Regression :heavy_check_mark: :bookmark_tabs:
+  - Logistic Regression :heavy_check_mark: :bookmark_tabs:
   - Stepwise Regression
   - Multivariate adaptive regression splines (MARS)
 - Classification :
@@ -43,15 +43,15 @@ Several simple examples of Machine Learning Algorithms with notebooks
 
  **3] Artificial Neural Network Algorithms**
 - Perceptron :heavy_check_mark:
-- Back-Propagation
+- Back-Propagation :bookmark_tabs:
   - SGD Optimizer :heavy_check_mark:
   - Adam Optimizer
   - Adagrad, Adadelta Optimizers
   - Formulation of the gradient
-- Dropout and Regularizers
+- Dropout and Regularizers :bookmark_tabs: 
 - Hopfield Network
 - Radial Basis Function Network (RBFN)
-- Feedforward neural network :heavy_check_mark:
+- Feedforward neural network :heavy_check_mark: :bookmark_tabs: 
 - Extreme learning machine
 - Attention layers and Augmented Networks
 - Convolutional neural network
@@ -93,7 +93,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Exponential families
   - Latent Dirichlet allocation
 - MCMC
-  - Gibbs sampling
+  - Gibbs sampling 
   - Metropolis Hastings
 - Dempster Schaffer Theory :heavy_check_mark:
 - Hidden Markov Models
@@ -103,7 +103,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Probabilistic PCA
 - Pyro
 - PyMc :heavy_check_mark:
-- Determinantal point process
+- Determinantal point process :bookmark_tabs: :bookmark_tabs:
 
 
  **6 ] Bayesian models**
@@ -118,7 +118,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Gaussian Processes
     - Covariance Matrix
     - Hierarchical Gaussian Process (see the repo HGPy)
-- EM algorithm
+- EM algorithm :bookmark_tabs:
 - Probit Regression
 - Bayesian Optimisation for training
 - Variationnnal Inference
