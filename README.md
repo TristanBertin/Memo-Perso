@@ -96,14 +96,13 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Gibbs sampling 
   - Metropolis Hastings
 - Dempster Schaffer Theory :heavy_check_mark:
-- Hidden Markov Models
 - Probabilistic Matrix Factorization
 - Conditional random field (CRF)
 - Hidden Markov model (HMM)
 - Probabilistic PCA
 - Pyro
 - PyMc :heavy_check_mark:
-- Determinantal point process :bookmark_tabs: :bookmark_tabs:
+- Determinantal point process :bookmark_tabs: :heavy_check_mark:
 
 
  **6 ] Bayesian models**
@@ -113,11 +112,12 @@ Several simple examples of Machine Learning Algorithms with notebooks
   - Unscented Kalman Filter (Non Linear, Gaussian)
   - Particule Filter (Non linear, Non Gaussian)
 - Bayes rule, Probability review
-- Bayesian Regression
+- Bayesian Regression 
 - Bayesian Classification
 - Gaussian Processes
-    - Covariance Matrix
+    - Covariance Matrix :heavy_check_mark:
     - Hierarchical Gaussian Process (see the repo HGPy)
+    - Multitask Gaussian Process :heavy_check_mark:
 - EM algorithm :bookmark_tabs:
 - Probit Regression
 - Bayesian Optimisation for training
@@ -135,12 +135,11 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Averaged One-Dependence Estimators (AODE)
 - Bayesian Data Assimilation
 
-
  **7 ]Clustering Algorithms**
 - k-Means :heavy_check_mark:
 - k-Medians
 - Expectation Maximisation (EM)
-- Hierarchical Clustering
+- Hierarchical Clustering 
 
  **8 ] Ensemble Algorithms**
 - Boosting
@@ -158,7 +157,6 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - k-Nearest Neighbor (kNN) :heavy_check_mark:
 - Learning Vector Quantization (LVQ)
 - Self-Organizing Map (SOM)
-
 
  **10 ] Reinforcement learning**
 - Q-learning
@@ -187,15 +185,14 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Graph-based methods
 - Co-training
 - Transduction
-- Triplet network :heavy_check_mark:
-- Siamese Network :heavy_check_mark:
+- Triplet network / Siamese Network :heavy_check_mark:
 
  **14] Time Serie Prediction**
 - Autoregressive models
   - ARIMA
 - Neural networks
-  - LSTM
-  - Convolutional Networks
+  - LSTM :heavy_check_mark:
+  - Convolutional Networks :heavy_check_mark:
   - Flexible windows
 
  **15] Natural Language Processing**
