@@ -103,6 +103,7 @@ Several simple examples of Machine Learning Algorithms with notebooks
 - Probabilistic PCA
 - Pyro
 - PyMc :heavy_check_mark:
+- Determinantal point process
 
 
  **6 ] Bayesian models**
