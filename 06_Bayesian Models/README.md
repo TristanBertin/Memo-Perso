@@ -14,7 +14,7 @@
 - ### Probit Regression
 - ### Bayesian Optimisation for training :heavy_check_mark:
   - Basic Example : https://scikit-optimize.github.io/notebooks/bayesian-optimization.html
-  
+  - A 3 pages course about acquisition functions : https://www.cse.wustl.edu/~garnett/cse515t/spring_2015/files/lecture_notes/12.pdf
 - ### Scalable inference
   - Variationnnal Inference
 - ### Bayesian Nonparametric clustering
