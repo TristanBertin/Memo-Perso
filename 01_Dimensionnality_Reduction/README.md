@@ -1,11 +1,5 @@
-# Memo-Perso
-Several simple examples of Machine Learning Algorithms with notebooks
 
- :heavy_check_mark: Done
-:round_pushpin: Almost done
-:small_blue_diamond: To do 
-
- **1 ] Dimensionality Reduction Algorithms**
+ # 1 ] Dimensionality Reduction Algorithms
 
 - Canonical correlation analysis (CCA)
 - Factor analysis
