@@ -15,5 +15,5 @@
 - Principal component regression (PCR)
 - Projection pursuit
 - Sammon mapping
-- t-distributed stochastic neighbor embedding (t-SNE)
+- t-distributed stochastic neighbor embedding (t-SNE) :heavy_check_mark: 
     - https://www.tensorflow.org/guide/embedding
