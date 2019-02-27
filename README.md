@@ -1,9 +1,8 @@
 # Memo-Perso
-Several simple examples of Machine Learning Algorithms with notebooks
+#### My personnal selection of good links and easy codes for several basic algorithms...
 
- :heavy_check_mark: Done
+:heavy_check_mark: Done
 :round_pushpin: Almost done
-:small_blue_diamond: To do 
 
  **1 ] Dimensionality Reduction Algorithms**
 
