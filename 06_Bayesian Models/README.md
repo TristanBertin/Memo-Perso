@@ -13,8 +13,9 @@
 - ### EM algorithm
 - ### Probit Regression
 - ### Bayesian Optimisation for training :heavy_check_mark:
-  - Basic Example : https://scikit-optimize.github.io/notebooks/bayesian-optimization.html
+  - Very Basic Example : https://scikit-optimize.github.io/notebooks/bayesian-optimization.html
   - [A 3 pages course about acquisition_functions](./ressources/Bayesian_Optimization.pdf)
+  - Good example : https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/19_Hyper-Parameters.ipynb#scrollTo=OcCIOa7KQD3w -> remember that the optimized function takes as input only the parameters we want to optimize
 - ### Scalable inference
   - Variationnnal Inference
 - ### Bayesian Nonparametric clustering
