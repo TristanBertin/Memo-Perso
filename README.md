@@ -19,7 +19,7 @@
 - Principal component regression (PCR)
 - Projection pursuit
 - Sammon mapping
-- [t-distributed stochastic neighbor embedding (t-SNE)](https://www.google.com)
+- [t-distributed stochastic neighbor embedding (t-SNE)](https://www.google.com) :heavy_check_mark:
 
  **2 ] Regression and Classification Algorithms**
 - Regression :
