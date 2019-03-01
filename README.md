@@ -32,7 +32,7 @@
   - Probabilistic classifier
   - Naive Bayes classifier
   - Binary classifier
-  - Linear classifier
+  - Linear classifier :heavy_check_mark:
   - Hierarchical classifier
 - Regularization Algorithms :
   - Ridge Regression :heavy_check_mark:
@@ -46,30 +46,30 @@
   - SGD Optimizer :heavy_check_mark:
   - Adam Optimizer
   - Adagrad, Adadelta Optimizers
-  - Formulation of the gradient
-- Dropout and Regularizers :bookmark_tabs: 
+  - Formulation of the gradient :heavy_check_mark:
+- Dropout and Regularizers :bookmark_tabs: :heavy_check_mark:
 - Hopfield Network
 - Radial Basis Function Network (RBFN)
 - Feedforward neural network :heavy_check_mark: :bookmark_tabs: 
 - Extreme learning machine
 - Attention layers and Augmented Networks
-- Convolutional neural network
-  - Resnet , Densenet 
-  - Parameters tuning (nb filters, layers, kernel size,...)
+- Convolutional neural network :heavy_check_mark:
+  - Resnet , Densenet :heavy_check_mark:
+  - Parameters tuning (nb filters, layers, kernel size,...) :heavy_check_mark:
 - Recurrent neural network
-  - LSTM :heavy_check_mark:
-  - GRU
+  - LSTM :heavy_check_mark: 
+  - GRU :heavy_check_mark:
 - Generative Adversial Networks:
   - Training Stability
-  - Generateur
-  - Discriminateur
+  - Generateur :heavy_check_mark:
+  - Discriminateur :heavy_check_mark:
 - Logic learning machine
-- Capsule Neural Networks
+- Capsule Neural Networks :heavy_check_mark:
 - Deep belief networks
 - Deep Boltzmann machines
 - Hierarchical temporal memory
-- Deep Boltzmann Machine (DBM)
-- Stacked Auto-Encoders
+- Deep Boltzmann Machine (DBM) 
+- Stacked Auto-Encoders :heavy_check_mark:
 
 
  **4 ] Decision Tree Algorithms**
@@ -81,19 +81,19 @@
 - M5
 - Conditional Decision Trees
 - ID3 algorithm
-- Random forest
+- Random forest :heavy_check_mark:
 - SLIQ
 
 
  **5 ] Statistical theory**
 - Predictive distribution
   - Lapplace approximation
-  - Gaussian Mixture Models
+  - Gaussian Mixture Models :heavy_check_mark:
   - Exponential families
   - Latent Dirichlet allocation
 - MCMC
-  - Gibbs sampling 
-  - Metropolis Hastings
+  - Gibbs sampling :heavy_check_mark:
+  - Metropolis Hastings :heavy_check_mark:
 - Dempster Schaffer Theory :heavy_check_mark:
 - Probabilistic Matrix Factorization
 - Conditional random field (CRF)
@@ -110,10 +110,10 @@
   - Extended Kalman Filter (Locally Linear, Gaussian)
   - Unscented Kalman Filter (Non Linear, Gaussian)
   - Particule Filter (Non linear, Non Gaussian)
-- Bayes rule, Probability review
+- Bayes rule, Probability review :heavy_check_mark:
 - Bayesian Regression 
 - Bayesian Classification
-- Gaussian Processes
+- Gaussian Processes :heavy_check_mark:
     - Covariance Matrix :heavy_check_mark:
     - Hierarchical Gaussian Process (see the repo HGPy)
     - Multitask Gaussian Process :heavy_check_mark:
@@ -121,7 +121,7 @@
 - Probit Regression
 - Bayesian Optimisation for training
 - Variationnnal Inference
-- MAP and ML
+- MAP and ML :heavy_check_mark:
 - Bayesian Nonparametric clustering
 - Naive Bayes
   - Gaussian Naive Bayes
@@ -137,13 +137,13 @@
  **7 ]Clustering Algorithms**
 - k-Means :heavy_check_mark:
 - k-Medians
-- Expectation Maximisation (EM)
+- Expectation Maximisation (EM) :heavy_check_mark:
 - Hierarchical Clustering 
 
  **8 ] Ensemble Algorithms**
-- Boosting
+- Boosting 
 - Bootstrapped Aggregation (Bagging)
-- AdaBoost
+- AdaBoost 
 - Stacked Generalization (blending)
 - Gradient Boosting Machines (GBM)
 - Gradient Boosted Regression Trees (GBRT)
@@ -175,7 +175,7 @@
 - OPTICS algorithm
 
  **12] Anomaly detection**
-- k-nearest neighbors classification (k-NN)
+- k-nearest neighbors classification (k-NN) :heavy_check_mark:
 - Local outlier factor
 
  **13 ] Semi-supervised learning**
@@ -189,7 +189,7 @@
  **14] Time Serie Prediction**
 - Autoregressive models
   - ARIMA
-- Neural networks
+- Neural networks :heavy_check_mark:
   - LSTM :heavy_check_mark:
   - Convolutional Networks :heavy_check_mark:
   - Flexible windows
@@ -199,7 +199,7 @@
 - Attention Layers
 
  **16] Optimization Algorithms**
-- Gradient Descent
+- Gradient Descent :heavy_check_mark:
 - [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
 
  **17] Tools for Parogrammer**
@@ -207,6 +207,6 @@
   - Tableau
 - Multi GPU
 - Languages
-  - Tensorflow
-  - Keras
-  - Pytorch
+  - Tensorflow :heavy_check_mark:
+  - Keras :heavy_check_mark:
+  - Pytorch :heavy_check_mark:
