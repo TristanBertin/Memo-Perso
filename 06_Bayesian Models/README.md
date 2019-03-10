@@ -10,6 +10,11 @@
 - ### Bayesian Regression
 - ### Bayesian Classification
 - ### Gaussian Processes
+   - Very simple idea : http://katbailey.github.io/post/gaussian-processes-for-dummies/
+   - The bible : http://www.gaussianprocess.org/gpml/
+   - Kernel cookbook : https://www.cs.toronto.edu/~duvenaud/cookbook/
+   - Multitask Gaussian Process : 
+   - A Gaussian Process perspective on Convolutional Neural Networks :https://arxiv.org/pdf/1810.10798.pdf
 - ### EM algorithm
 - ### Probit Regression
 - ### Bayesian Optimisation for training :heavy_check_mark:
