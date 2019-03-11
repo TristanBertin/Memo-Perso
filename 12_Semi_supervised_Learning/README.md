@@ -173,12 +173,11 @@
 - K-medians
 - Mean-shift
 - OPTICS algorithm
+- Anomaly detection
+  - k-nearest neighbors classification (k-NN) :heavy_check_mark:
+  - Local outlier factor
 
- **12] Anomaly detection**
-- k-nearest neighbors classification (k-NN) :heavy_check_mark:
-- Local outlier factor
-
- **13 ] Semi-supervised learning**
+ **12 ] Semi-supervised learning**
 - Generative models
 - Low-density separation
 - Graph-based methods
@@ -186,21 +185,18 @@
 - Transduction
 - Triplet network / Siamese Network :heavy_check_mark:
 
- **14] Time Serie Prediction**
-- Autoregressive models
-  - ARIMA
-- Neural networks :heavy_check_mark:
-  - LSTM :heavy_check_mark:
-  - Convolutional Networks :heavy_check_mark:
-  - Flexible windows
-
- **15] Natural Language Processing**
-- Word embedding : Word2Vec
-- Attention Layers
-
- **16] Optimization Algorithms**
-- Gradient Descent :heavy_check_mark:
-- [Barnes–Hut simulation](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
+ **13] Main Applications**
+ 
+-Time Serie Prediction
+  - Autoregressive models
+    - ARIMA
+  - Neural networks :heavy_check_mark:
+    - LSTM :heavy_check_mark:
+    - Convolutional Networks :heavy_check_mark:
+    - Flexible windows
+- Natural Language Processing
+  - Word embedding : Word2Vec
+  - Attention Layers
 
  **17] Tools for Parogrammer**
 - Visualization:
