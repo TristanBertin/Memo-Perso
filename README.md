@@ -186,6 +186,7 @@
 - Triplet network / Siamese Network :heavy_check_mark:
 
  **13] Main Applications**
+ 
 -Time Serie Prediction
   - Autoregressive models
     - ARIMA
