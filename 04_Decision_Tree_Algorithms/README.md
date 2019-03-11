@@ -1,12 +1,22 @@
 **4 ] Decision Tree Algorithms**
 - Classification and Regression Tree (CART)
 - Iterative Dichotomiser 3 (ID3)
+- MARS : extends decision trees to handle numerical data better
 - C4.5 and C5.0 (different versions of a powerful approach)
 - Chi-squared Automatic Interaction Detection (CHAID)
 - Decision Stump
+- Conditional Inference Trees
 - M5
+- Pruning (reduce overfitting)
 - Conditional Decision Trees
+- Recursive Partitioning
+- Greedy Algorithm
 - ID3 algorithm
 - Random forest
 - SLIQ
+- Boosted trees (ex : Adaboost)
+- Bootsrap aggregated / Bagged (ex : Random Forest)
+- Rotation forest
+- Dual Information Distance (to avoid local optimality)
+- 
 
