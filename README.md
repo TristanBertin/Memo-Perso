@@ -39,6 +39,8 @@
   - Least Absolute Shrinkage and Selection Operator (LASSO)
   - Elastic Net
   - Least-Angle Regression (LARS)
+- Support Vector Machine (SVM)
+- Kernel trick
 
  **3] Artificial Neural Network Algorithms**
 - Perceptron :heavy_check_mark:
