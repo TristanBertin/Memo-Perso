@@ -2,7 +2,7 @@
 #### My personnal selection of good links and easy codes for several basic algorithms...
 
 :heavy_check_mark: Done
-:round_pushpin: Almost done
+:round_pushpin: To do 
 
  **1 ] Dimensionality Reduction Algorithms**
 
