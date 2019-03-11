@@ -1,5 +1,4 @@
-
- **7 ]Clustering Algorithms**
+**7 ]Clustering Algorithms**
 - k-Means :heavy_check_mark:
 - k-Medians
 - Expectation Maximisation (EM) :heavy_check_mark:
@@ -7,4 +6,15 @@
 - Anomaly Detection
   - k-nearest neighbors classification (k-NN) :heavy_check_mark:
   - Local outlier factor
-  
+- BIRCH
+- DBSCAN
+- Expectation-maximization (EM)
+- Fuzzy clustering
+- Hierarchical Clustering
+- K-means clustering
+- K-medians
+- Mean-shift
+- OPTICS algorithm
+- Anomaly detection
+  - k-nearest neighbors classification (k-NN) ✔️
+  - Local outlier factor
