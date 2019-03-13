@@ -1,5 +1,5 @@
 
-**3] Artificial Neural Network Algorithms**
+# 3] Artificial Neural Network Algorithms
 - Perceptron :heavy_check_mark:
 - Back-Propagation
   - SGD Optimizer :heavy_check_mark:
