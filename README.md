@@ -178,8 +178,7 @@
 - Learning Automata
 
 
-
- **12 ] Semi-supervised learning**
+ **11 ] Semi-supervised learning**
 - Generative models
 - Low-density separation
 - Graph-based methods
@@ -187,7 +186,7 @@
 - Transduction
 - Triplet network / Siamese Network :heavy_check_mark:
 
- **13] Main Applications**
+ **12] Main Applications**
  
 -Time Serie Prediction
   - Autoregressive models
@@ -199,8 +198,8 @@
 - Natural Language Processing
   - Word embedding : Word2Vec
   - Attention Layers
-
- **17] Tools for Parogrammer**
+  
+ **13] Tools for Programmer**
 - Visualization:
   - Tableau
 - Multi GPU
@@ -208,3 +207,12 @@
   - Tensorflow :heavy_check_mark:
   - Keras :heavy_check_mark:
   - Pytorch :heavy_check_mark:
+  
+**14] Analytical and Computational Theory**
+- Optimization Problem :
+  - Gradient Descent
+  - Lagrangien of constraints
+- Numerical Analysis (Science of the Numerical Discretisation/Approximation)
+  - Nystrom Approximation
+  - 
+  
