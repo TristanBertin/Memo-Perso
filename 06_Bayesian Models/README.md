@@ -10,7 +10,7 @@
 - ### Bayesian Regression
 - ### Bayesian Classification
 - ### Score
-   - indicates score, score function, efficient score or informant indicates how sensitive a likelihood function it to a its parameter theta : allows the computation of the gardient and the backpropagation of the loss
+   - indicates how sensitive a likelihood function it to a its parameter theta : allows the computation of the gardient and the backpropagation of the loss
 - ### Gaussian Processes
    - Very simple idea : http://katbailey.github.io/post/gaussian-processes-for-dummies/
    - The bible : http://www.gaussianprocess.org/gpml/
