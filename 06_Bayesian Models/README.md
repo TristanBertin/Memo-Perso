@@ -9,6 +9,7 @@
 - ### Bayes rule, Probability review
 - ### Bayesian Regression
 - ### Bayesian Classification
+- ### Score
 - ### Gaussian Processes
    - Very simple idea : http://katbailey.github.io/post/gaussian-processes-for-dummies/
    - The bible : http://www.gaussianprocess.org/gpml/
