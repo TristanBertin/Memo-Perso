@@ -2,14 +2,14 @@
 # 3] Artificial Neural Network Algorithms
 - ### Perceptron :heavy_check_mark:
 - ### Back-Propagation
-      - SGD Optimizer :heavy_check_mark:
-      - Adam Optimizer
-      - Adagrad, Adadelta Optimizers
-      - Formulation of the gradient
+    - SGD Optimizer :heavy_check_mark:
+    - Adam Optimizer
+    - Adagrad, Adadelta Optimizers
+    - Formulation of the gradient
 - ### Autoencoders
-      - Classic one
-      - Variationnal Autoencoder (Generativ model)
-      - Stacked Auto-Encoders
+    - Classic one
+    - Variationnal Autoencoder (Generativ model)
+    - Stacked Auto-Encoders
 - ### Convolutional neural network
   - Resnet , Densenet 
   - Parameters tuning (nb filters, layers, kernel size,...)
