@@ -3,23 +3,24 @@
 - ### Perceptron :heavy_check_mark:
 - ### Back-Propagation
     - SGD Optimizer :heavy_check_mark:
-    - Adam Optimizer
+    - Adam Optimizer :heavy_check_mark:
     - Adagrad, Adadelta Optimizers
     - Formulation of the gradient
 - ### Autoencoders
-    - Classic one
-    - Variationnal Autoencoder (Generativ model)
+    - Classic one :heavy_check_mark:
+    - Variationnal Autoencoder (Generativ model) :heavy_check_mark:
     - Stacked Auto-Encoders
 - ### Convolutional neural network
-  - Resnet , Densenet 
-  - Parameters tuning (nb filters, layers, kernel size,...)
+  - Resnet , Densenet :heavy_check_mark:
+  - Parameters tuning (nb filters, layers, kernel size,...) :heavy_check_mark:
 - ### Recurrent neural network
-  - LSTM :heavy_check_mark:
-  - GRU 
+  - LSTM :heavy_check_mark: :heavy_check_mark:
+  - GRU :heavy_check_mark:
+  
 - ### Generative Adversial Networks:
   - Training Stability
-  - Generateur
-  - Discriminateur
+  - Generateur :heavy_check_mark:
+  - Discriminateur :heavy_check_mark:
   
 - Hopfield Network
 - Radial Basis Function Network (RBFN)
