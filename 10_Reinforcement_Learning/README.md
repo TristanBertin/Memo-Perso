@@ -1,9 +1,9 @@
 
  # 10 ] Reinforcement learning
  
--  ### Policy Gradient Methods :
+-  ### Policy Gradient Methods : http://rll.berkeley.edu/deeprlcoursesp17/docs/lec2.pdf
     - *type of reinforcement learning techniques that rely upon optimizing parametrized policies with respect to the expected return (long-   term cumulative reward) by gradient descent*:
-    - Score Function Gradient Estimator : http://rll.berkeley.edu/deeprlcoursesp17/docs/lec2.pdf
+    - Score Function Gradient Estimator : https://en.wikipedia.org/wiki/Score_(statistics)
     - “Vanilla” Policy Gradient Algorithm
     - Connection to MPC
 
