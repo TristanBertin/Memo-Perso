@@ -9,8 +9,14 @@
 - ### Bayes rule, Probability review :heavy_check_mark:
 - ### Bayesian Regression
 - ### Bayesian Classification
-- ### Score
-   - indicates how sensitive a likelihood function it to a its parameter theta : Explicitly, the score is the gradient of the log-likelihood with respect to theta .
+- ### Variationnal Inference and Score estimator
+   - indicates how sensitive a likelihood function it to a its parameter theta : Explicitly, the score is the gradient of the log-likelihood with respect to theta.
+   - log derivative trick : http://wilkeraziz.github.io/slides/24-05-2018-uedin-dgm-discrete.pdf :heavy_check_mark:
+   - Black-box variationnal inference : https://ermongroup.github.io/cs228-notes/extras/vae/ (applied to VAE) :heavy_check_mark:
+   - EM algorithm :heavy_check_mark:
+   - ELBO and KL divergence:heavy_check_mark:
+   - Variance reduction techniques
+   - Differentiation of the likelihood :heavy_check_mark:
 - ### Gaussian Processes
    - Very simple idea : http://katbailey.github.io/post/gaussian-processes-for-dummies/ :heavy_check_mark:
    - The bible : http://www.gaussianprocess.org/gpml/ 
