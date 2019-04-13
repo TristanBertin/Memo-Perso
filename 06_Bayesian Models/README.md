@@ -13,7 +13,7 @@
 - ### Bayesian Classification
 
 - ### Variationnal Inference and Score estimator
-   - indicates how sensitive a likelihood function it to a its parameter theta : Explicitly, the score is the gradient of the log-   likelihood with respect to theta.
+   - Score estimator : indicates how sensitive a likelihood function it to a its parameter theta : Explicitly, the score is the gradient of the log-   likelihood with respect to theta.
    - log derivative trick : http://wilkeraziz.github.io/slides/24-05-2018-uedin-dgm-discrete.pdf :heavy_check_mark:
    - Black-box variationnal inference : https://ermongroup.github.io/cs228-notes/extras/vae/ (applied to VAE) :heavy_check_mark:
    - EM algorithm :heavy_check_mark:
