@@ -8,9 +8,14 @@
   - Particule Filter (Non linear, Non Gaussian)
 - ### Bayes rule, Probability review :heavy_check_mark:
 
-- ### Bayesian Regression
+- ### Bayesian Regression/Classification
+  - Linear
+  - Logistic
+  - Poisson
+  - Linear Mixed Effect/pooled
+  - Hierarchical Regression 
 
-- ### Bayesian Classification
+
 
 - ### Variationnal Inference and Score estimator
    - Score estimator : indicates how sensitive a likelihood function it to a its parameter theta : Explicitly, the score is the gradient of the log-   likelihood with respect to theta.
@@ -34,10 +39,14 @@
   
 - ### Bayesian Nonparametric clustering
 
+-### Topic models (e.g Latent Dirichlet allocation)
+
 - ### Naive Bayes
   - Gaussian Naive Bayes
   - Multinomial Naive Bayes
   
+- ### Linear dynamical systems (e.g., state space models, hidden Markov models)
+
 - ### Bayesian Networks
   - Bayesian Neural Network 
   - Bayesian Convolutional Network
@@ -45,4 +54,7 @@
 - ### Averaged One-Dependence Estimators (AODE)
 - ### Bayesian Data Assimilation
 - ### Probit Regression
+
+ 
+- ## Deep exponential families eg  Deep latent Gaussian models
 
