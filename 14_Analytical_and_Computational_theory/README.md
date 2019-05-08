@@ -2,6 +2,30 @@
 - ### Optimization Problem :
   - Gradient Descent
   - Lagrangien of constraints
+  - automatic differentiation 
+  - BFGS 
+  - conjugate gradient 
+  - convergence of conjugate gradient 
+  - convergence of gradient descent 
+  - convex optimization 
+  - convex sets finite-difference approximations to derivatives 
+  - Gauss-Newton algorithm 
+  - gradient descent 
+  - KKT conditions 
+  - Lagrange duality 
+  - Lagrange multipliers 
+  - limited memory BFGS 
+  - line search 
+  - natural gradient 
+  - Newton's method (optimization) 
+  - nonlinear conjugate gradient 
+  - preconditioned conjugate gradient second 
+  - derivative test 
+  - stochastic gradient descent 
+  - truncated Newton 
+  - trust regions
+  
+  
 - ### Numerical Analysis (Science of the Numerical Discretisation/Approximation)
   - Nystrom Approximation
     - Wiki great : https://en.wikipedia.org/wiki/Nystr%C3%B6m_method
