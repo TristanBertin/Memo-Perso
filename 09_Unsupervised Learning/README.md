@@ -1,5 +1,5 @@
 
- **9 ] Unsupervised learning**
+ ## 9 ] Unsupervised learning
 - Expectation-maximization algorithm
 - Generative topographic map
 - Information bottleneck method
