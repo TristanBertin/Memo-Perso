@@ -39,3 +39,26 @@
 - Conditional Decision Trees
 - Dual Information Distance (to avoid local optimality)
 
+## Data Structure
+- AVL trees 
+- b-trees 
+- Bellman-Ford algorithm 
+- binary search trees 
+- Bloom filter 
+- breadth-first search 
+- depth-first search 
+- Dijkstra's algorithm 
+- graph representations 
+- hash tables 
+- heap (data structure) 
+- linked lists 
+- lower bound on sorting 
+- merge sort 
+- minimum spanning trees 
+- queue 
+- quicksort 
+- recursive backtracking 
+- red-black trees 
+- representation invariants 
+- strongly connected components 
+- topological sort
