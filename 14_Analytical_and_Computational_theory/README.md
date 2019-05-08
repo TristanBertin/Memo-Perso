@@ -1,27 +1,26 @@
 # 14] Analytical and Computational Theory
 - ### Optimization Problem :
-  - Gradient Descent
-  - Lagrangien of constraints
+  - Gradient Descent :heavy_check_mark: 
+  - Lagrangien of constraints :heavy_check_mark: 
   - automatic differentiation 
   - BFGS 
   - conjugate gradient 
   - convergence of conjugate gradient 
-  - convergence of gradient descent 
-  - convex optimization 
+  - convergence of gradient descent :heavy_check_mark: 
+  - convex optimization :heavy_check_mark: 
   - convex sets finite-difference approximations to derivatives 
   - Gauss-Newton algorithm 
-  - gradient descent 
   - KKT conditions 
   - Lagrange duality 
   - Lagrange multipliers 
   - limited memory BFGS 
   - line search 
   - natural gradient 
-  - Newton's method (optimization) 
+  - Newton's method (optimization) :heavy_check_mark: 
   - nonlinear conjugate gradient 
   - preconditioned conjugate gradient second 
   - derivative test 
-  - stochastic gradient descent 
+  - stochastic gradient descent :heavy_check_mark: 
   - truncated Newton 
   - trust regions
   
@@ -37,7 +36,6 @@
   - Hamiltonian flows 
   - integration on manifolds 
   - Lie derivatives 
-  - natural gradient 
   - oriented manifolds 
   - pullback 
   - Riemannian metrics 
@@ -47,43 +45,42 @@
   - tensor fields on manifolds
  
  - ### Algebra :
-    - bases
-    - change of basis
+    - bases :heavy_check_mark: 
+    - change of basis :heavy_check_mark: 
     - column space and nullspace 
-    - complex vectors and matrices 
-    - computing matrix inverses 
+    - computing matrix inverses :heavy_check_mark: 
     - computing the nullspace 
     - Cramer's rule 
-    - determinant and volume 
-    - diagonalization 
-    - dot product 
-    - eigenvalues and eigenvectors 
+    - determinant and volume :heavy_check_mark: 
+    - diagonalization :heavy_check_mark: 
+    - dot product :heavy_check_mark: 
+    - eigenvalues and eigenvectors :heavy_check_mark: 
     - four fundamental subspaces 
     - Gaussian elimination 
     - inner product 
     - linear approximation 
-    - linear regression: closed-form solution 
-    - linear systems as matrices 
-    - linear transformations as matrices 
+    - linear regression: closed-form solution :heavy_check_mark: 
+    - linear systems as matrices :heavy_check_mark: 
+    - linear transformations as matrices :heavy_check_mark: 
     - LU factorization 
-    - matrix inverse
-    - multiplicity of eigenvalues 
+    - matrix inverse :heavy_check_mark: 
+    - multiplicity of eigenvalues :heavy_check_mark: 
     - orthogonal subspaces 
     - orthonormal bases 
     - parameterizing lines and planes 
-    - positive definite matrices 
-    - projection onto a subspace 
+    - positive definite matrices :heavy_check_mark: 
+    - projection onto a subspace :heavy_check_mark: 
     - QR decomposition 
     - singular value decomposition 
-    - solution sets of linear systems 
-    - solving difference equations with matrices 
+    - solution sets of linear systems :heavy_check_mark: 
+    - solving difference equations with matrices :heavy_check_mark: 
     - spectral decomposition subspaces
 
  
 - ### Set theory
   - Axiom of Choice 
   - Boolean algebras 
-  - cardinality 
+  - cardinality :heavy_check_mark: 
   - constructing the integers 
   - constructing the reals 
   - countable sets 
@@ -112,6 +109,6 @@
   - Gaussian Integral Trick 
   - Hutchinson's Trick
   - Reparametrization Trick
-  - Log derivative trick
+  - Log derivative trick :heavy_check_mark: 
   - Tricks with sticks
   
