@@ -1,5 +1,33 @@
 # 5 ] Statistical Theory
 
+- ## Frequentist Statistics
+  - asymptotics of maximum likelihood 
+  - Bayesian information criterion 
+  - bias-variance decomposition 
+  - bootstrap Central Limit Theorem 
+  - Chernoff bounds 
+  - comparing normal populations 
+  - Cramer-Rao bound 
+  - cross validation 
+  - cumulative distribution function 
+  - curse of dimensionality 
+  - exponential families 
+  - Fisher information 
+  - Fisher information matrix 
+  - Fisher's linear discriminant
+  - generalized linear models 
+  - Markov and Chebyshev inequalities 
+  - maximum likelihood 
+  - maximum likelihood in exponential families
+  - method of moments 
+  - statistical hypothesis testing
+  - strong law of large numbers 
+  - Student-t distribution 
+  - sufficient statistics 
+  - VC dimension
+
+
+
 - ## PyMc:
   - **1 Intro** : define a simple probabilistic model, number of text messages per day -> bayesian approach
   - **2 Exemples of bayesian models** : This chapter introduces more PyMC3 syntax and variables and ways to think about how to model a system from a Bayesian perspective.
