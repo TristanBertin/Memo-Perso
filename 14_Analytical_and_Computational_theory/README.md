@@ -78,7 +78,30 @@
     - solution sets of linear systems 
     - solving difference equations with matrices 
     - spectral decomposition subspaces
+
  
+- ### Set theory
+  - Axiom of Choice 
+  - Boolean algebras 
+  - cardinality 
+  - constructing the integers 
+  - constructing the reals 
+  - countable sets 
+  - defining the cardinals 
+  - equivalence relations 
+  - functions and relations as sets 
+  - incompleteness of set theory 
+  - Lowenheim-Skolem theorems 
+  - natural numbers as sets 
+  - order relations 
+  - ordinal numbers 
+  - Russell's Paradox 
+  - set operations
+  - structural induction 
+  - ultraproduct 
+  - well orderings 
+  - Zermelo-Frankl axioms 
+  - Zorn's Lemma
 
 - ### Numerical Analysis (Science of the Numerical Discretisation/Approximation)
   - Nystrom Approximation
