@@ -58,3 +58,16 @@
  
 - ## Deep exponential families eg  Deep latent Gaussian models
 
+
+-collapsed Gibbs sampling 
+- CRP clustering 
+- Dirichlet process 
+- evidence approximation 
+- Gibbs sampling as a special case of Metropolis-Hastings 
+- hierarchical Dirichlet process 
+- IBP linear-Gaussian model 
+- importance sampling 
+- Jeffreys prior
+- particle filter
+- reversible jump MCMC
+
