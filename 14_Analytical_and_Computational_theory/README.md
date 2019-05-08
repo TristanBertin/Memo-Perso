@@ -47,37 +47,37 @@
   - tensor fields on manifolds
  
  - ### Algebra :
-  - bases
-  - change of basis
-  - column space and nullspace 
-  - complex vectors and matrices 
-  - computing matrix inverses 
-  - computing the nullspace 
-  - Cramer's rule 
-  - determinant and volume 
-  - diagonalization 
-  - dot product 
-  - eigenvalues and eigenvectors 
-  - four fundamental subspaces 
-  - Gaussian elimination 
-  - inner product 
-  - linear approximation 
-  - linear regression: closed-form solution 
-  - linear systems as matrices 
-  - linear transformations as matrices 
-  - LU factorization 
-  - matrix inverse
-  - multiplicity of eigenvalues 
-  - orthogonal subspaces 
-  - orthonormal bases 
-  - parameterizing lines and planes 
-  - positive definite matrices 
-  - projection onto a subspace 
-  - QR decomposition 
-  - singular value decomposition 
-  - solution sets of linear systems 
-  - solving difference equations with matrices 
-  - spectral decomposition subspaces
+    - bases
+    - change of basis
+    - column space and nullspace 
+    - complex vectors and matrices 
+    - computing matrix inverses 
+    - computing the nullspace 
+    - Cramer's rule 
+    - determinant and volume 
+    - diagonalization 
+    - dot product 
+    - eigenvalues and eigenvectors 
+    - four fundamental subspaces 
+    - Gaussian elimination 
+    - inner product 
+    - linear approximation 
+    - linear regression: closed-form solution 
+    - linear systems as matrices 
+    - linear transformations as matrices 
+    - LU factorization 
+    - matrix inverse
+    - multiplicity of eigenvalues 
+    - orthogonal subspaces 
+    - orthonormal bases 
+    - parameterizing lines and planes 
+    - positive definite matrices 
+    - projection onto a subspace 
+    - QR decomposition 
+    - singular value decomposition 
+    - solution sets of linear systems 
+    - solving difference equations with matrices 
+    - spectral decomposition subspaces
  
 
 - ### Numerical Analysis (Science of the Numerical Discretisation/Approximation)
