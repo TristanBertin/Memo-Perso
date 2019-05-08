@@ -3,26 +3,26 @@
 - ## Frequentist Statistics
   - asymptotics of maximum likelihood 
   - Bayesian information criterion 
-  - bias-variance decomposition 
+  - bias-variance decomposition :heavy_check_mark:
   - bootstrap Central Limit Theorem 
   - Chernoff bounds 
   - comparing normal populations 
   - Cramer-Rao bound 
   - cross validation 
-  - cumulative distribution function 
-  - curse of dimensionality 
-  - exponential families 
+  - cumulative distribution function :heavy_check_mark:
+  - curse of dimensionality :heavy_check_mark:
+  - exponential families :heavy_check_mark:
   - Fisher information 
   - Fisher information matrix 
   - Fisher's linear discriminant
   - generalized linear models 
-  - Markov and Chebyshev inequalities 
-  - maximum likelihood 
+  - Markov and Chebyshev inequalities :heavy_check_mark:
+  - maximum likelihood :heavy_check_mark:
   - maximum likelihood in exponential families
   - method of moments 
   - statistical hypothesis testing
   - strong law of large numbers 
-  - Student-t distribution 
+  - Student-t distribution :heavy_check_mark:
   - sufficient statistics 
   - VC dimension
 
