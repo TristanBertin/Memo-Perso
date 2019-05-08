@@ -25,7 +25,28 @@
   - truncated Newton 
   - trust regions
   
-  
+- ### Differential Geometry :
+- commuting vector fields 
+- cotangent bundle 
+- differentiable manifolds 
+- differentiable maps between manifolds 
+- differential forms 
+- exterior derivative 
+- Fisher metric 
+- flows on manifolds 
+- Hamiltonian flows 
+- integration on manifolds 
+- Lie derivatives 
+- natural gradient 
+- oriented manifolds 
+- pullback 
+- Riemannian metrics 
+- statistical manifolds 
+- symplectic manifolds 
+- tangent bundle 
+- tensor fields on manifolds
+
+
 - ### Numerical Analysis (Science of the Numerical Discretisation/Approximation)
   - Nystrom Approximation
     - Wiki great : https://en.wikipedia.org/wiki/Nystr%C3%B6m_method
