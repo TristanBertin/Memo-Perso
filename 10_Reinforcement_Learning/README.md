@@ -1,13 +1,27 @@
 
  # 10 ] Reinforcement learning
- 
--  ### Policy Gradient Methods : http://rll.berkeley.edu/deeprlcoursesp17/docs/lec2.pdf
-    - *type of reinforcement learning techniques that rely upon optimizing parametrized policies with respect to the expected return (long-   term cumulative reward) by gradient descent*:
-    - Score Function Gradient Estimator : https://en.wikipedia.org/wiki/Score_(statistics)
-    - “Vanilla” Policy Gradient Algorithm
-    - Connection to MPC
+https://arxiv.org/pdf/1906.10025.pdf
 
-- ### Q-learning
-- ### State–action–reward–state–action (SARSA)
-- ### Temporal difference learning (TD)
-- ### Learning Automata
+## Value-based algorithms
+ -  Temporal Difference learning
+ -  Deep Q-learning (DQN)
+ -  Double DQN
+ -  Dueling DQN
+ -  Noisy DQN
+ -  Prioritized experience replay
+ -  Multi-step DQN
+
+## Distributional approach for value-based methods 20
+ - Categorical DQN
+ - Quantile Regression DQN (QR-DQN)
+ - Rainbow DQN
+ 
+## Policy Gradient algorithms
+ - Policy Gradient theorem
+ - REINFORCE
+ - Advantage Actor-Critic (A2C)
+ - Generalized Advantage Estimation (GAE)
+ - Natural Policy Gradient (NPG)
+ - Trust-Region Policy Optimization (TRPO)
+ - Proximal Policy Optimization (PPO)
+ - Interaction-training trade-off in value-based algorithms
